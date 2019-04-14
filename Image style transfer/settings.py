@@ -7,7 +7,7 @@ STYLE_IMAGE = 'images/style/style_post-impressionism.jpg'
 # 输出图片路径
 OUTPUT_IMAGE = 'output/Beauty/Beauty_output'
 
-# 预训练的vgg模型路径
+# 预训练的vgg模型路径(VGG模型需自行下载)
 VGG_MODEL_PATH = 'imagenet-vgg-verydeep-19.mat'
 
 # 图片宽度
